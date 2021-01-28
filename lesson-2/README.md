@@ -1,4 +1,4 @@
-# HTML Album Cover
+# Lesson 2: HTML/CSS
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" align="right" hspace="10">
 
 Pharrell isn't quite happy, he needs some help coding the album cover for his
