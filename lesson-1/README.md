@@ -1,4 +1,4 @@
-## Find the Missing Pet
+## Lesson 1: Learning the Command Line
 
 ### Instructions
 
